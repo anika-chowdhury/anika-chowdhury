@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anika-nawar" alt="anika-nawar" /></a> </p>
 
-- 👩‍🎓 I’m currently studying ** Data Science**
+- 👩‍🎓 I’m currently studying **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anika-chowdhury](https://github.com/anika-chowdhury)
 
