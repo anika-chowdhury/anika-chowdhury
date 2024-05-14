@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anika! Nice to have to here</h1>
+<h1 align="left">Hi 👋, I'm Anika! Nice to have to here</h1>
 
 <h3 align="center">I am an aspiring Data Scientist. You can also find me on: <a href="https://www.linkedin.com/in/anikanc/)"> <img width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" ></a></h4>
 
