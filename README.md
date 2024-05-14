@@ -2,7 +2,8 @@
 
 <h3 align="center">I am an aspiring Data Scientist. You can also find me on: <a href="https://www.linkedin.com/in/anikanc/)"> <img width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" ></a></h4>
 
-<img align="right" alt="Coding" width="400" src="https://mascotopiasc.cl/computer-coding-gif-k.html">
+<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anika-nawar&label=Profile%20views&color=0e75b6&style=flat" alt="anika-nawar" /> </p>
 
 - 👩‍🎓 I’m currently studying **Data Science**
