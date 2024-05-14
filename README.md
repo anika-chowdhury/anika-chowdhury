@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anika! Nice to have to here</h1>
-<h3 align="center">I am an aspiring Data Scientist. You can also find me on: <ahref="https://www.linkedin.com/in/anikanc/)"> <img width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" ></a></h4>
+
+<h3 align="center">I am an aspiring Data Scientist. You can also find me on: <a href="https://www.linkedin.com/in/anikanc/)"> 
+<img width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" ></a></h4>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anika-nawar&label=Profile%20views&color=0e75b6&style=flat" alt="anika-nawar" /> </p>
 
 - 👩‍🎓 I’m currently studying **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anika-chowdhury](https://github.com/anika-chowdhury)
+- 👨‍💻 All of my projects are available at [anika-chowdhury)
 
-- 📫 How to reach me **https://www.linkedin.com/in/anikanc/**
+- 📫 How to reach me **anika4010@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/k9nnqup1be](https://flowcv.com/resume/k9nnqup1be)
 
