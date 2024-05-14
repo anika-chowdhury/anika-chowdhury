@@ -8,11 +8,11 @@
 
 - 👩‍🎓 I’m currently studying **Data Science**
 
-- 👨‍💻 All of my projects are available at [[anika-chowdhury](https://github.com/anika-chowdhury?tab=projects))
+- 👨‍💻 All of my projects are available at [[anika-chowdhury](https://github.com/anika-chowdhury?tab=projects)
 
 - 📫 How to reach me **anika4010@gmail.com**
 
-- 📄 Know about my experiences [Anika Nawar Chowdhury](https://flowcv.com/resume/k9nnqup1be))
+- 📄 Know about my experiences [Anika Nawar Chowdhury](https://flowcv.com/resume/k9nnqup1be)
 
 - ⚡ Fun fact **I love psychological thrillers**
 
