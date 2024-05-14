@@ -8,7 +8,7 @@
 
 - 👩‍🎓 I’m currently studying **Data Science**
 
-- 👨‍💻 All of my projects are available at [[anika-chowdhury](https://github.com/anika-chowdhury?tab=projects)
+- 👨‍💻 All of my projects are available at [anika-chowdhury](https://github.com/anika-chowdhury?tab=projects)
 
 - 📫 How to reach me **anika4010@gmail.com**
 
