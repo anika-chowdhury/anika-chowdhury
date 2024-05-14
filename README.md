@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anika-nawar&label=Profile%20views&color=0e75b6&style=flat" alt="anika-nawar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anika-nawar" alt="anika-nawar" /></a> </p>
-
 - 👩‍🎓 I’m currently studying **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anika-chowdhury](https://github.com/anika-chowdhury)
