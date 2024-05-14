@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anika4010@gmail.com**
 
-- 📄 Know about my experiences [Anika Nawar Chowdhury]((https://flowcv.com/resume/ju281ho2bn))
+- 📄 Know about my experiences [Anika Nawar Chowdhury](https://flowcv.com/resume/ju281ho2bn)
 
 - ⚡ Fun fact **I love psychological thrillers**
 
