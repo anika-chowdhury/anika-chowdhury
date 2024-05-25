@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Anika! Nice to have to here</h1>
 
-<h3 align="center">An aspiring Data Scientist. You can also find me on: <a href="https://www.linkedin.com/in/anikanc/"> <img width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" ></a></h4> 
+<h3 align="center">An aspiring Data Scientist. You can also find me on: <a href="https://www.linkedin.com/in/anikanc/"> 
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J4Z3p0NjNiY2s3Y3h0Z281aGgxeGozZjR2ZzU0eHdnNjN4dGdmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif"> 
 
